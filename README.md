@@ -73,7 +73,7 @@ I enjoy taking a problem, and building a solution from the idea phase and up to 
   <a href="https://www.oracle.com/il-en/cloud/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" width="36" height="36" alt="Oracle Cloud" /></a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
   <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="36" height="36" alt="Mongo Atlas" /></a>
-  <a href="http://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/361653/vercel-logo.svge" width="36" height="36" alt="Vercel" /></a>
+  <a href="http://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" width="36" height="36" alt="Vercel" /></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
   <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373874/netlify.svg" width="36" height="36" alt="Netlify" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
