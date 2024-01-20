@@ -16,7 +16,7 @@ I enjoy taking a problem, and building a solution from the idea phase and up to 
 -->
 * 🌍  I'm based in Israel <!-- PLACE ON NEXT LINE --> <!-- * 🖥️  See my portfolio and In-depth Case studies at [Protfolio](https://prtofilio-domain-goes-here.com) -->
 * ✉️  You can contact me at [sameerkhoury67@gmail.com](mailto:sameerkhoury67@gmail.com)
-<!--* 🚀  I'm currently working on a Community Management System for one of the October 7th victims community. <!-- * 🚀  I'm currently working on [A Community Management System for one of the Oct. 7th victims community](https://github.com/rep-link) -->
+* 🚀  I'm currently working on a Community Management System for one of the October 7th victims community. <!-- * 🚀  I'm currently working on [A Community Management System for one of the Oct. 7th victims community](https://github.com/rep-link) -->
 * 🧠  I'm learning NextJS and TailwindCSS
 * 💬 Ask me about React, NodeJS, or any challenge you are having
 * ⚡  I like solving real people's day-to-day challenges
