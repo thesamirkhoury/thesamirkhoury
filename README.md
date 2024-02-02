@@ -17,7 +17,7 @@ I enjoy taking a problem, and building a solution from the idea phase and up to 
 * 🌍  I'm based in Israel <!-- PLACE ON NEXT LINE --> <!-- * 🖥️  See my portfolio and In-depth Case studies at [Protfolio](https://prtofilio-domain-goes-here.com) -->
 * ✉️  You can contact me at [sameerkhoury67@gmail.com](mailto:sameerkhoury67@gmail.com)
 * 🚀  I'm currently working on a Community Management System for one of the October 7th victims community. <!-- * 🚀  I'm currently working on [A Community Management System for one of the Oct. 7th victims community](https://github.com/rep-link) -->
-* 🧠  I'm learning NextJS and TailwindCSS
+* 🧠  I'm learning NextJS
 * 💬 Ask me about React, NodeJS, or any challenge you are having
 * ⚡  I like solving real people's day-to-day challenges
 
@@ -25,13 +25,15 @@ I enjoy taking a problem, and building a solution from the idea phase and up to 
 
 ### Skills
 #### 💻 Frontend:
-<!-- React | Redux | HTML5 |  CSS | Sass | Bootstrap5 -->
+<!-- React | Redux | HTML5 |  CSS | Sass | Tailwinds | Shadcn | Bootstrap5 -->
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="36" height="36" alt="Shadcn UI" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
