@@ -41,8 +41,8 @@ I enjoy taking a problem, and building a solution from the idea phase and up to 
 <!-- Node JS | Express JS | MongoDB | SQL | Firebase -->
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/nodejs.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/expressjs.svg" width="36" height="36" alt="Express" /</a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/mongodb.svg" width="36" height="36" alt="MongoDB" /</a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/expressjs.svg" width="36" height="36" alt="Express" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/mysql.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thesamirkhoury/thesamirkhoury/main/icons/backend/firebase.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
